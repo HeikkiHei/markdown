@@ -16,8 +16,8 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ##### Header five
 ###### Header six
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
 [Linkkisivu](linkit)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
