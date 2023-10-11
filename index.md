@@ -9,6 +9,10 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
+# This header will work fine, because it has a space between the # and the first word
+
+#This header will not work, because it is missing the space
+
 # Header one
 ## Header two
 ### Header three
